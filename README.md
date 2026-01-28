@@ -1,5 +1,7 @@
 # CircadianRhythm
 
+**NOTE: I no longer play on Project Epoch and this will not recieve any further updates, feel free to fork this repo an continue development.**
+
 Addon that shows a GUI window with the Day/Night cycle information. This is mainly for people who use addons like Elvui which completely remove that feature from the minimap.
 
 You can also hover over the image and it will give you a tooltip with a more detailed time of day: Morning, Noon, Afternoon, Evening, Night, Midnight, Late Night.
